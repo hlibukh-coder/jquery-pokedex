@@ -1,6 +1,6 @@
 # jQuery Pokédex (ISTE-340 Project 2)
 
-**Live URL:** _add your hosted URL here (e.g. GitHub Pages)_
+**Live URL:** https://hlibukh-coder.github.io/jquery-pokedex/
 
 A Pokédex built with jQuery that consumes the free **PokéAPI** JSON web service (https://pokeapi.co). No API key needed. To run locally, open `index.html` (or run `python3 -m http.server` in this folder).
 
